@@ -1,4 +1,4 @@
-HR-Analytics-PowerBi-Dashboard
+HR-Analytics-PowerBi-Dashboard Project [Link](https://app.powerbi.com/view?r=eyJrIjoiYmFjYzJjMDAtYmFkMy00MGM2LTllOTktODliNWVjMTdiZTE4IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9)
 
 To help an organization improve employee performance and improve employee retention by creating an HR Analytics dashboard.
 
